@@ -1,2 +1,2 @@
-Manufacturer;Model Number;Description;Nameplate Pmax;PTC;Family;A_c;N_s;N_p;Nameplate Isc;Nameplate Voc;Nameplate Ipmax;Nameplate Vpmax;Average NOCT;Pmax;Isc;Voc;Ipmax;Vpmax;IPmax. low;VPmax. low;IPmax. NOCT;VPmax. NOCT;Mounting;Short Side;Long Side
-Jinksolar;JKM575M-7RL4-V;575 W Monocrystalline Module;510;510;Monocrystalline;2.734074;78;2;13.61;53.84;12.95;44.4;45;-0.35;0.048;-0.28;0;0;0;0;10.35;41.33;Rack;1.134;2.411
+Manufacturer,Model Number,Description,Nameplate Pmax,PTC,Family,A_c,N_s,N_p,Nameplate Isc,Nameplate Voc,Nameplate Ipmax,Nameplate Vpmax,Average NOCT,Pmax,Isc,Voc,Ipmax,Vpmax,IPmax. low,VPmax. low,IPmax. NOCT,VPmax. NOCT,Mounting,Short Side,Long Side
+Jinksolar,JKM575M-7RL4-V,575 W Monocrystalline Module,510,510,Monocrystalline,2.734074,78,2,13.61,53.84,12.95,44.4,45,-0.35,0.048,-0.28,0,0,0,0,10.35,41.33,Rack,1.134,2.411
