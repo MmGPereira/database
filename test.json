@@ -1,0 +1,419 @@
+{
+  "type": "FeatureCollection",
+  "Buildings": [
+	{
+    "Apartment Building": {
+		"properties":{
+			"ID": "39",
+			"Transformer": "2",
+			"Houses": "8"
+      },
+        "type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "542",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "543",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "544",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "545",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "546",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "547",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+	  
+		"House": {
+			"ID" : "548",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "549",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+    },
+	{
+    "Apartment Building": {
+		"properties":{
+			"ID": "8",
+			"Transformer": "3",
+			"Houses": "12"
+      },
+        "type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "99",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "100",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "101",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "102",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "103",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "104",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "105",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "106",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+	  "House": {
+			"ID" : "107",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "108",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "109",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "110",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+    },
+	{
+    "Apartment Building": {
+		"properties":{
+			"ID": "31",
+			"Transformer": "5",
+			"Houses": "12"
+      },
+        "type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "426",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "427",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+	  "House": {
+			"ID" : "428",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "429",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "430",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "431",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "432",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "433",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "434",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "435",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+	  "House": {
+			"ID" : "436",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "437",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+    },
+	{
+    "Apartment Building": {
+		"properties":{
+			"ID": "76",
+			"Transformer": "1",
+			"Houses": "8"
+      },
+        "type": "Feature"
+	},
+	"Households": {		
+		"House": {
+			"ID" : "937",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "938",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "939",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "940",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "941",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "942",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "943",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "944",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+    },
+	{
+    "Apartment Building": {
+		"properties":{
+			"ID": "90",
+			"Transformer": "2",
+			"Houses": "8"
+      },
+        "type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "1095",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "1096",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "1097",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "1098",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "1099",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "1100",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "1101",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+		"House": {
+			"ID" : "1102",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+    },
+	{
+    "Single Family House": {
+		"properties":{
+			"ID": "114",
+			"Transformer": "1",
+			"Houses": "1"
+      },
+        "type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "1474",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+    },
+	{
+    "Single Family House": {
+		"properties":{
+			"ID": "115",
+			"Transformer": "1",
+			"Houses": "1"
+      },
+        "type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "1475",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+    },
+	{
+	"Single Family House": {
+		"properties":{
+			"ID": "173",
+			"Transformer": "1",
+			"Houses": "1"
+      },
+		"type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "1534",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+	},
+	{
+	"Single Family House": {
+		"properties":{
+			"ID": "174",
+			"Transformer": "1",
+			"Houses": "1"
+      },
+		"type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "1535",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+	},
+	{
+	"Single Family House": {
+		"properties":{
+			"ID": "175",
+			"Transformer": "1",
+			"Houses": "1"
+      },
+		"type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "1536",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+	},
+	{
+	"Single Family House": {
+		"properties":{
+			"ID": "176",
+			"Transformer": "1",
+			"Houses": "1"
+      },
+		"type": "Feature"
+	},
+	"Households": {	
+		"House": {
+			"ID" : "1537",
+			"Occupants": "",
+			"Load Chart": ""
+      },
+      "type": "Feature"
+	}
+	}
+  ]
+}
