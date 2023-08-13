@@ -1,0 +1,76 @@
+{
+   "Buildings": {
+       "Apartment Building": [
+           {
+               "ID": "39",
+               "Transformer": "2",
+               "Houses": "1",
+               "Households": [
+                   {
+                       "ID": "542",
+                       "Occupants": "",
+                       "Load Chart": "testy"
+                   }
+               ]
+           },
+           {
+               "ID": "12",
+               "Transformer": "2",
+               "Houses": "5",
+               "Households": [
+                   {
+                       "ID": "542",
+                       "Occupants": "",
+                       "Load Chart": ""
+                   },
+                   {
+                       "ID": "666",
+                       "Occupants": "",
+                       "Load Chart": ""
+                   },
+                   {
+                       "ID": "542",
+                       "Occupants": "",
+                       "Load Chart": ""
+                   },
+                   {
+                       "ID": "542",
+                       "Occupants": "",
+                       "Load Chart": ""
+                   },
+                   {
+                       "ID": "542",
+                       "Occupants": "",
+                       "Load Chart": ""
+                   }
+               ]
+           }
+       ],
+       "SFH": [
+           {
+               "ID": "4",
+               "Transformer": "2",
+               "Houses": "8",
+               "Households": [
+                   {
+                       "ID": "542",
+                       "Occupants": "",
+                       "Load Chart": ""
+                   }
+               ]
+           },
+           {
+               "ID": "3",
+               "Transformer": "2",
+               "Houses": "8",
+               "Households": [
+                   {
+                       "ID": "542",
+                       "Occupants": "",
+                       "Load Chart": ""
+                   }
+               ]
+           }
+       ]
+   }
+}
