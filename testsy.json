@@ -1,0 +1,84 @@
+{
+    "Buildings": {
+        "Building": [
+            {
+                "ID": "39",
+                "Transformer": "2",
+                "Houses": "1",
+                "Households": [
+                    {
+                        "ID": "542",
+                        "Occupants": "",
+                        "Load Chart": "2",
+                        "Role": "prosumer"
+                    }
+                ]
+            },
+            {
+                "ID": "12",
+                "Transformer": "2",
+                "Houses": "5",
+                "Households": [
+                    {
+                        "ID": "542",
+                        "Occupants": "",
+                        "Load Chart": "2",
+                        "Role": "consumer"
+                    },
+                    {
+                        "ID": "666",
+                        "Occupants": "",
+                        "Load Chart": "2",
+                        "Role": "prosumer"
+                    },
+                    {
+                        "ID": "542",
+                        "Occupants": "",
+                        "Load Chart": "2",
+                        "Role": "consumer"
+                    },
+                    {
+                        "ID": "542",
+                        "Occupants": "",
+                        "Load Chart": "2",
+                        "Role": "consumer"
+                    },
+                    {
+                        "ID": "542",
+                        "Occupants": "",
+                        "Load Chart": "2",
+                        "Role": "prosumer"
+                    }
+                ]
+            }
+        ],
+        "Single Family Houses": [
+            {
+                "ID": "4",
+                "Transformer": "2",
+                "Houses": "8",
+                "Households": [
+                    {
+                        "ID": "542",
+                        "Occupants": "",
+                        "Load Chart": "4",
+                        "Role": "prosumer"
+                    }
+                ]
+            },
+            {
+                "ID": "3",
+                "Transformer": "2",
+                "Houses": "8",
+                "Households": [
+                    {
+                        "ID": "542",
+                        "Occupants": "",
+                        "Load Chart": "4",
+                        "Role": "consumer"
+                    }
+                ]
+            }
+        ]
+    }
+ }
